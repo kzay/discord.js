@@ -1,6 +1,6 @@
 <div align="center">
  <p>
- This is a fork of <a href="https://discord.js.org"><img src="https://discord.js.org/static/logo.svg" width="50" alt="discord.js" /></a>.
+ This is a fork of <a href="https://discord.js.org"><img src="https://discord.js.org/static/logo.svg" width="80" alt="discord.js" /></a>.
   </p>
   <br />
   <!--
